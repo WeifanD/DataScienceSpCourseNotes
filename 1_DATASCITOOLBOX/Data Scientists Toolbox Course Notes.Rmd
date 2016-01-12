@@ -40,7 +40,7 @@ $\pagebreak$
 
 
 ## GitHub
-
+* *Git:* An open source version control system (VCS) at the heart of Github, which is responsible for everything GitHub-related that happens locally on your computer.
 * **Workflow**
     1. make edits in workspace
     2. update index/add files
